@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body{
+    background-color: #E7EEF7 !important;
+}
+
+nav {
+    padding: 10px;
+    background-color: #5B7CFD !important;
+}
+
+nav a{
+    color: white !important;
+}
+
+nav a:hover{
+    background: rgba(256,256,256,.3) !important;
+    color: white !important;
+}
+
+nav .active{
+    background: rgba(256,256,256,.3) !important;
+}
+
+.ordenador{
+    background-color: white;
+    border-radius: 15px;
+}
+
+.info-ordenador{
+    padding: 20px;
+}
+
+.ordenadores-contenido{
+    padding: 20px;
+    background-color: #F5F6F8;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.titulo-pagina{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    margin-top: 50px !important;
+}
+
+.ordenadores{
+    margin: 0;
+    margin-top: 50px;
+}
+
+.id-ordenador{
+    font-weight: bold;
+}
+
+.componente{
+    margin-top: 20px;
+}
